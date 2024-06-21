@@ -1,0 +1,3 @@
+C:\Users\FollK\source\repos\RodyResq\RodyResq\obj\Debug\RodyResq.njsproj.AssemblyReference.cache
+C:\Users\FollK\source\repos\RodyResq\RodyResq\obj\Debug\RodyResq.njsproj.CoreCompileInputs.cache
+C:\Users\FollK\source\repos\RodyResq\RodyResq\bin\Microsoft.NodejsTools.WebRole.dll
